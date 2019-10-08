@@ -7,7 +7,7 @@ hex_bytes = "795ab8bcecd3dfdd99a5b6ac1536858d090877524d71547da7a70816fdd7"
 
 decoded_key = ''
 count = 0
-with open('/Users/nu11byt3s/Documents/lab/ctf/flareon2019/4 - Dnschess/ips.txt','r') as fh:
+with open('ips.txt','r') as fh:
     lines = fh.readlines()
     for i in range(0,len(hex_bytes),4):
         for l in lines:
