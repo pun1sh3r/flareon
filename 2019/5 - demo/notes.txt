@@ -1,0 +1,7 @@
+solution involved extracting 3d models from game:
+
+tools used:
+3ds max: to view the extracted models
+ninja ripper: to extract the models
+  - http://cgig.ru/en/2012/10/ho-to-use-ninja-ripper/
+  
